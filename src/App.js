@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-//contact form for mudullar bank
+//contact form for Modeullar bank
 function App() {
   return (
     <div class="App">
